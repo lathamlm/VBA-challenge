@@ -6,7 +6,7 @@ This code utilizes a For loop to identify the first and last rows of each ticker
 
 A summary table is created from the information gathered in the first For loop, and a second For loop utilizes the information in the summary table to identify the greatest increase, greatest decrease, and greatest volume as indicated in the prompt instructions.  This code also loops through each worksheet so all sheets are updated at once.
 
-The final code runs in a little under one minute in the larger Multiple_year_stock_data file
+The final code runs in roughly one to three minutes in the larger Multiple_year_stock_data file
 _____________________________________________________________________________________________________________________________________________________________
 
 Resources:
